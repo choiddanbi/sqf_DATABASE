@@ -1,0 +1,1 @@
+SELECT * FROM study.student_tb;

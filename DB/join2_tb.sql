@@ -1,0 +1,1 @@
+SELECT * FROM dvd_db.join2_tb;
